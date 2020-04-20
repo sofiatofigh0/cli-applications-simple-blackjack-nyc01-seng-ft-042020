@@ -36,7 +36,6 @@ def initial_round
   display_card_total(sum)
   return sum
 end
-binding.pry
 
 
 def hit?(current_total)
